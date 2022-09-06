@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @mangat23
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there 👋 this is Tarnveer Mangat!
 
-<!---
-mangat23/mangat23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my Github page! I am currently a student at the University of Washington
+
+pursuing a B.S. in Computer Science!
+
+My Skills 💻: Java, Python, HTML/CSS, R, React, JavaScript, Tableau
+
+📫 Reach via email at: tarnveer.ms@gmail.com
