@@ -6,4 +6,4 @@ pursuing a B.S. in Computer Science!
 
 My Skills 💻: Java, Python, HTML/CSS, R, React, JavaScript, Tableau
 
-📫 Reach via email at: tarnveer.ms@gmail.com
+📫 Reach me via email at: tarnveer.ms@gmail.com
