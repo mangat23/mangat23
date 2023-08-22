@@ -4,6 +4,6 @@ Welcome to my Github page! I am currently a student at the University of Washing
 
 pursuing a B.S. in Computer Science!
 
-My Skills 💻: Java, Python, HTML/CSS, R, React, JavaScript, Tableau
+My Skills 💻: Java, Python, HTML/CSS, R, React, JavaScript, Tableau, MATLAB
 
-📫 Reach me via email at: tarnveer.ms@gmail.com
+
